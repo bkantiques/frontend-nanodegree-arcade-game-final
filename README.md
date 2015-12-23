@@ -1,6 +1,9 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+To start this game, open the index.html file in your browser.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Use the arrow keys to move. The goal is to get to the water without
+getting hit by a bug. Getting to the water increases your score by 100 points.
+Each gem is worth 20 points. Your score increases until you are hit by a bug,
+at which point you lose and your score resets to 0.
